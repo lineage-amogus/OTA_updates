@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1688670698,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "datetime": 1688744252,
+      "filename": "lineage-07Jul2023-OTA-amogus.zip",
+      "id": "69601852a7990bc52f566f3d7e38ad24",
       "romtype": "unofficial",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
+      "size": 1117926873,
+      "url": "https://github.com/lineage-amogus/OTA_updates/releases/download/07-Jul-2023/lineage-07Jul2023-OTA-amogus.zip",
       "version": "20.0"
     }
   ]
